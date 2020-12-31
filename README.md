@@ -1,1 +1,1 @@
-# Java 15/OpenJ9 AOT Customer Runtime Containers
+# Java 15/OpenJ9 AOT Custom Runtime Containers
